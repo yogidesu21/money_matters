@@ -1,0 +1,40 @@
+.horizotabsList {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  background-color: transparent;
+  margin-bottom: 2px;
+  border-width: 0px;
+}
+.horizoactivatedTab {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  border-width: 0px;
+  background-color: transparent;
+  border-bottom: 2px;
+  border-color: #2d60ff;
+  border-style: solid;
+  margin-bottom: 2px;
+}
+.tabIcons {
+  width: 25px;
+  height: 25px;
+  margin-top: 14.5px;
+  margin-right: 15px;
+}
+.tabName {
+  font-family: Inter;
+  font-size: 18px;
+  /* font-weight: 500; */
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #2d60ff;
+}

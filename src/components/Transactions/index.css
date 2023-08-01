@@ -1,0 +1,19 @@
+.transactionTabContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  height: 60px;
+  background-color: #ffffff;
+  margin: 0px;
+  width: 100%;
+}
+.lastTransaction1 {
+  width: 100%;
+  top: 343px;
+  left: 290px;
+  padding: 12px 25px 8px 24px;
+  border-radius: 25px;
+  gap: 10px;
+  background-color: #ffffff;
+  margin-top: 15px;
+}
